@@ -22,7 +22,7 @@ A curated collection of essential concepts, audit techniques, and security princ
 
 ### Vulnerability Database
 
-A categorized summary of real-world EVM vulnerabilities, their root causes, and prevention strategies.
+A categorized summary of EVM vulnerabilities, their root causes, and prevention strategies.
 
 - [`vulnerability_database/Salus_EVM-Vulnerability_database - Conclusion.pdf`](vulnerability_database/Salus_EVM-Vulnerability_database%20-%20Conclusion.pdf)
 
